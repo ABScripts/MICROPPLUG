@@ -184,3 +184,9 @@ std::thread t3(minus), t4(plus);
   //  //std::cout << "C = " << c << std::endl;
   //  std::cout << "Result = " << result << std::endl;
 }
+
+/*
+* Write a program which reads data from .cpp files in the current
+* directory and counts all the symbols inside (or any particular symbol).
+* Do that task using four or more threads. 
+*/
